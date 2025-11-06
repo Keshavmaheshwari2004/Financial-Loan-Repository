@@ -1,4 +1,4 @@
-# Financial_Laon
+# Financial_Loan_Analysis
 # Project Overview
 This project provides a comprehensive analysis of loan data using Excel Dashboards. The aim is to monitor loan performance, identify trends, and track key financial metrics to support data-driven decision-making.
 
